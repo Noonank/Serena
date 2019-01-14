@@ -1,0 +1,2 @@
+# Serena
+snips/assistant
