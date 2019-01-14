@@ -1,4 +1,4 @@
-#/usr/bin/env bash -e
+#!/usr/bin/env bash
 
 VENV=venv
 
@@ -18,3 +18,4 @@ fi
 . $VENV/bin/activate
 
 pip install -r requirements.txt
+
